@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 39c0b9476b840794c9d3c881b842af92
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: MADE TOMMY Outline
+  fontNames:
+  - MADE TOMMY Outline
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0b17264d15478e842abda8fe9f6ba5ae, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
